@@ -6,7 +6,7 @@
     'name': 'Record automatically a negation for a product on a sale',
     'description': '''Records automatically a negation (product_negation) for a
     product that is intended to be sold but has no stock.''',
-    'version': '9.0.0.1.0',
+    'version': '9.0.1.0.0',
     'category': 'Sales',
     'author': 'Humanytek',
     'website': "http://www.humanytek.com",
